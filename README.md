@@ -15,6 +15,8 @@
     - lolololololo
     - penambahan ini
 
+Coba rebase
+
 coba squash
 
   ## cara ~~konfigurasi~~
