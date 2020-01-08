@@ -12,7 +12,7 @@
     - i
     - just
     - kulo
-    - l
+    - lolololololo
     - penambahan ini
   ## cara ~~konfigurasi~~
   1. [111](https://www.okejos.com)
