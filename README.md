@@ -13,7 +13,7 @@
     - j
     - k
     - l
-    - 
+    - penambahan ini
   ## cara ~~konfigurasi~~
   1. [111](https://www.okejos.com)
   2. 222
