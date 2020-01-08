@@ -11,7 +11,7 @@
   - h
     - i
     - j
-    - k
+    - kulo
     - l
     - penambahan ini
   ## cara ~~konfigurasi~~
