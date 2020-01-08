@@ -10,7 +10,7 @@
   - g
   - h
     - i
-    - j
+    - just
     - kulo
     - l
     - penambahan ini
