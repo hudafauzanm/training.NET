@@ -14,6 +14,9 @@
     - kulo
     - lolololololo
     - penambahan ini
+
+coba squash
+
   ## cara ~~konfigurasi~~
   1. [111](https://www.okejos.com)
   2. 222
