@@ -10,8 +10,8 @@
   - g
   - h
     - i
-    - j
-    - k
+    - just
+    - kulo
     - l
     - penambahan ini
   ## cara ~~konfigurasi~~
